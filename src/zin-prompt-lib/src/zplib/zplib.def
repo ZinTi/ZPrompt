@@ -1,0 +1,18 @@
+LIBRARY "zplib"
+EXPORTS
+    ZPrompt_CheckEnv
+    ZPrompt_SubprojVersion
+    ZPrompt_ReadManual
+    ConvertHex
+    PutStr
+    ColorPrintf
+    ColorPuts
+    ChColor
+    ChCP
+    IsUTF8
+    AutomaticallySelectCodePage
+    StrToUppercase
+    StrToLowercase
+    StrCmpIgnoreCase
+    StrNCmpIgnoreCase
+    LoadLoop

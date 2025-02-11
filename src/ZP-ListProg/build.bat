@@ -1,0 +1,1 @@
+gcc main.c color.c -o ZP-ListProg.exe -Os -static

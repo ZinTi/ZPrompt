@@ -1,0 +1,1 @@
+start compmgmt.msc

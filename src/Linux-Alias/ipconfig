@@ -1,0 +1,3 @@
+#!/bin/bash
+echo '(ipconfig is aliased to `ip addr show`)'
+ip addr show

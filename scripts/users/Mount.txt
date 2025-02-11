@@ -1,0 +1,5 @@
+select vdisk file=D:\Dev1.vhdx
+
+attach vdisk
+
+exit

@@ -1,0 +1,17 @@
+LIBRARY "SLLS"
+EXPORTS
+    InitSLLS
+    CreateNodeSLLS
+    InsertNodeSLLSAtHead
+    InsertNodeSLLSAtTail
+    FindNodeSLLSByContent
+    FindNodeSLLSByPosition
+    DeleteNodeSLLSByPosition
+    DeleteNodeSLLSByContent
+    ModifyNodeSLLSByContent
+    ModifyNodeSLLSByPosition
+    SortSLLSAscending
+    SortSLLSDescending
+    GetSLLSLength
+    PrintSLLS
+    FreeSLLS

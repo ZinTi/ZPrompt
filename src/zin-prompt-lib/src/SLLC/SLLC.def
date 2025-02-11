@@ -1,0 +1,18 @@
+LIBRARY "SLLC"
+EXPORTS
+    InitSLLC
+    InsertHeadSLLC
+    InsertTailSLLC
+    FindFirstSLLC
+    FindLastSLLC
+    GetDataAtSLLC
+    DeleteAtSLLC
+    ModifyAtSLLC
+    ListLengthSLLC
+    PrintSLLC
+    SortSLLC
+    ReverseSortSLLC
+    AppendStringSLLC
+    CopySLLC
+    ToStringSLLC
+    FreeSLLC

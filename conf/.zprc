@@ -1,0 +1,18 @@
+# comments: alias.
+
+alias d=dict
+alias cat=viewfile
+
+alias poweroff='shutdown -s -t 3'
+alias reboot='shutdown -r -t 3'
+alias slay='taskkill /F /IM %1.exe'
+alias ifconfig='ipconfig /all'
+
+alias md2sum='certutil -hashfile %1 MD2'
+alias md4sum='certutil -hashfile %1 MD4'
+alias md5sum='certutil -hashfile %1 MD5'
+alias sha1sum='certutil -hashfile %1 SHA1'
+alias sha256sum='certutil -hashfile %1 SHA256'
+alias sha384sum='certutil -hashfile %1 SHA384'
+alias sha512sum='certutil -hashfile %1 SHA512'
+

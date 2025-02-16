@@ -20,7 +20,7 @@
 打开 `CMD` / `Powershell` / `Pwsh` / `Windows Terminal` 窗口。输入 `chcolor -l` 命令测试环境`%ZPrompt_HOME%\lib`和`%ZPrompt_HOME%\bin`是否配置成功；输入`np`或`np.bat`(命令会打开notepad.exe) 测试`%ZPrompt_HOME%\scripts`是否配置成功。
 
 ### 删除配置
-运行解压目录下的`setEnv.exe`，输入`u`或`U`删除环境变量。然后你可以手动删除全部文件了。
+运行解压目录下的`SetEnv-Windows.exe`，输入`u`或`U`删除环境变量。然后你可以手动删除全部文件了。
 
 ## 三、目录结构
 经配置环境变量后，可通过命令`echo %ZPrompt_HOME%`或`Write-Output $env:ZPrompt_HOME`查看项目根目录的路径，前者为`CMD`的语法，后者为`Powershell`或`pwsh`的语法。
